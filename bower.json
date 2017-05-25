@@ -1,0 +1,21 @@
+{
+  "name": "alert-modal",
+  "description": "Bootstrap alternative to JavaScript alert().",
+  "main": "src/alert-modal.js",
+  "authors": [
+    "Paolo D'Apice <dapicester@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/dapicester/alert-modal",
+  "dependencies": {
+    "bootstrap": ">=3.0.0",
+    "jquery-ujs": ">=1.0.0"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
